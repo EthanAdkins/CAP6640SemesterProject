@@ -1,0 +1,6 @@
+/Inference
+/results
+/.idea
+/__pycache__
+StableDiffusionModel/sd_xl_base_1.0.safetensors
+StableDiffusionModel/sd_xl_refiner_1.0.safetensors
